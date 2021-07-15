@@ -1,0 +1,11 @@
+. "$HOME/.cargo/env"
+
+export sspath='~/Pictures/Screenshots'
+export photopath='~/Pictures'
+export videopath='~/Videos'
+export musicpath='~/Music'
+export docpath='~/Documents'
+export browser='librewolf'
+export media='mpv'
+export editor='vim'
+
